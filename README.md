@@ -2,7 +2,7 @@
 
 An intelligent **AI-powered JavaScript Debugger** built with **Next.js**. This tool helps developers diagnose and fix JavaScript errors efficiently using AI assistance.
 
-🔗 **Live Demo:** [Click Here](https://your-deployed-url.com)
+🔗 **Live Demo:** [Click Here](https://ai-code-debugger-q4osj4ipi-shvargans-projects.vercel.app/)
 
 ## 🌟 Features
 
